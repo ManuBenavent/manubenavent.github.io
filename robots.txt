@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://manubenavent.github.io/sitemap.xml
